@@ -1,0 +1,1 @@
+-c --cpu Cortex-M3 -g -O0 --apcs=interwork -I..\CORE -I..\HARDWARE -I..\USER -I..\FWLIB\inc -I "D:\software\keil_mdk\ARM\INC" -I "D:\software\keil_mdk\ARM\INC\ST\STM32F10x" -DUSE_STDPERIPH_DRIVER -DSTM32F10X_MD -o "..\OUTPUT\stm32f10x_crc.o" --omf_browse "..\OUTPUT\stm32f10x_crc.crf" --depend "..\OUTPUT\stm32f10x_crc.d" "..\FWLIB\src\stm32f10x_crc.c"
