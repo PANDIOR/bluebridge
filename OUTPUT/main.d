@@ -28,3 +28,6 @@
 ..\OUTPUT\main.o: ..\FWLIB\inc\stm32f10x_usart.h
 ..\OUTPUT\main.o: ..\FWLIB\inc\stm32f10x_wwdg.h
 ..\OUTPUT\main.o: ..\FWLIB\inc\misc.h
+..\OUTPUT\main.o: ..\HARDWARE\lcd.h
+..\OUTPUT\main.o: D:\software\keil_mdk\ARM\RV31\INC\stdio.h
+..\OUTPUT\main.o: ..\HARDWARE\uart.h
