@@ -9,4 +9,12 @@
 extern u8 led_status;
 
 
+
+void led_init(void);
+void led_control(u8 led_status);
+
+
+
+
+
 #endif

@@ -31,3 +31,8 @@
 ..\OUTPUT\main.o: ..\HARDWARE\lcd.h
 ..\OUTPUT\main.o: D:\software\keil_mdk\ARM\RV31\INC\stdio.h
 ..\OUTPUT\main.o: ..\HARDWARE\uart.h
+..\OUTPUT\main.o: D:\software\keil_mdk\ARM\RV31\INC\string.h
+..\OUTPUT\main.o: ..\HARDWARE\tim.h
+..\OUTPUT\main.o: ..\HARDWARE\key.h
+..\OUTPUT\main.o: ..\HARDWARE\led.h
+..\OUTPUT\main.o: ..\HARDWARE\i2c.h
